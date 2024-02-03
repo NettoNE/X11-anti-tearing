@@ -1,5 +1,6 @@
 
-![Captura de tela de 2024-02-03 03-29-20](https://github.com/NettoNE/X11-anti-tearing/assets/93299326/ad5cc935-b694-40c9-a881-e5235f86ce1d)
+![script_screenshot](https://github.com/NettoNE/X11-anti-tearing/assets/93299326/3b9ff79f-4187-48f6-91fa-3de82cde5efe)
+
 
 ## How to use:
 
