@@ -15,6 +15,21 @@ sudo anti-tearing.sh
 
 **Restart after configuration...**
 
+## How to know the intel driver version
+
+You can use: 
+
+```bash
+sudo lspci -k | grep -EA3 'VGA|3D|Display
+```
+
+**OR**
+
+```bash 
+# inxi may not be standard on your distribution, install using the package manager
+inxi -G
+``` 
+
 ## Problems:
 
 * If you get a black screen, acess a [tty](https://www.howtogeek.com/428174/what-is-a-tty-on-linux-and-how-to-use-the-tty-command/#accessing-a-tty), enter the directory ```/etc/X11/xorg.conf.d/```
