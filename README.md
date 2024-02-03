@@ -11,7 +11,7 @@ chmod +x anti-tearing.sh
 
 ### Execute with `sudo`
 ```bash
-sudo anti-tearing.sh
+sudo ./anti-tearing.sh
 ```
 
 **Restart after configuration...**
