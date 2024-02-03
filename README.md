@@ -20,7 +20,7 @@ sudo anti-tearing.sh
 You can use: 
 
 ```bash
-sudo lspci -k | grep -EA3 'VGA|3D|Display
+sudo lspci -k | grep -EA3 'VGA|3D|Display'
 ```
 
 **OR**
