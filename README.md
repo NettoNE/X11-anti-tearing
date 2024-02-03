@@ -1,3 +1,6 @@
+
+![Captura de tela de 2024-02-03 03-29-20](https://github.com/NettoNE/X11-anti-tearing/assets/93299326/ad5cc935-b694-40c9-a881-e5235f86ce1d)
+
 ## How to use:
 
 ### Give execution permission
@@ -18,4 +21,3 @@ sudo anti-tearing.sh
 and delete ```20-intel.conf```
 
 * Try alternative script configuration with ```-alt``` flag
-
